@@ -1,0 +1,19 @@
+PROJECT SUMMARY
+Healthcare Analytics for Doctor Visit TIRTC
+Student: Arnaov Garg
+AICTE ID: STU66fc1fdc7fe6b1727799260
+
+Problem statement:
+Healthcare organizations generate visit records that can be analyzed to understand utilization patterns. The supplied dataset contains doctor-visit counts together with demographic, illness, health, income, coverage and chronic-condition indicators. The project converts these fields into an interactive analytics dashboard.
+
+Dataset:
+5190 records and 13 source columns. Total recorded visits = 1566. Average visits per record = 0.30.
+
+End users:
+Doctors and clinic administrators can use the dashboard to explore visit patterns; healthcare analysts can use it for descriptive analysis; students and mentors can use it as a data analytics demonstration.
+
+Technology:
+Python, Pandas, NumPy, Streamlit, Plotly and Matplotlib.
+
+Results:
+The dashboard provides filters and KPI cards plus visualizations for gender, age group, illness, health score and coverage.
